@@ -8,6 +8,7 @@ html {
 }
 body {
   font-family: sans-serif;
+  background-color: #f0f0f0;
 }
 .title {
   text-align: center;
@@ -27,7 +28,7 @@ body {
   align-items: center;
 }
 .cur__select {
-  width: 10rem;
+  width: 14rem;
 }
 .cur__input,
 .cur__select {
