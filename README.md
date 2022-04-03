@@ -1,3 +1,3 @@
 # api-projects
 #### currency converter site finished 👇
-#### https://weather-country.netlify.app ✔
+#### https://currency-converter-js-app.netlify.app/ ✔
